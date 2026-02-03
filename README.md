@@ -1,4 +1,4 @@
-# Health-Lifestyle-Coach
+# Health Lifestyle Coach
 An end-to-end Health &amp; Lifestyle Recommender System built with Python, utilizing Machine Learning and a Streamlit UI to provide personalized recommendations and fitness insights for gym beginners.
 ##  Key Features
 * **Personalized Scoring:** Calculates a "Lifestyle Score" (0-10) based on BMI, hydration, meal frequency, and activity.
