@@ -20,3 +20,5 @@ The model analyzes the following features:
 - **Physical Exercise Type** (Gym, Cardio, Yoga, etc.)
 - **Water Intake** (Liters)
 - **Daily Meal Frequency**
+
+hi- imadding a new line 
